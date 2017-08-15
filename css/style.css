@@ -1,0 +1,39 @@
+h1, h2, h3 {
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;
+}
+
+hr {
+	border-width: 3px;
+	border-color: #7d97ad;
+}
+
+img {
+	width: 100%;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	padding-top: 10%;
+	width: 25vmin;
+}
+
+.title {
+	color: #7d97ad;
+	font-weight: 400;
+}
+
+.projects {
+	text-align: center;
+}
+
+.project-title {
+	font-style: blue;
+}
